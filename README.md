@@ -44,3 +44,8 @@ The experiments are categorized into three primary domains to ensure a structure
 You will need a Python environment (3.8+) with the following libraries:
 ```bash
 pip install numpy pandas scipy matplotlib tensorflow torch opencv-python
+---
+## 🚀 How to Run
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/ayush201456/Neural-Network-Lab.git](https://github.com/ayush201456/Neural-Network-Lab.git)
